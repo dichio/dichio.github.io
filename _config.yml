@@ -10,7 +10,7 @@ email: dichio.vito@gmail.com
 keywords:   # add your own keywords or leave empty
 
 lang: en # the main language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: user-solid  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://dichio.github.io # the base hostname & protocol for your site
 baseurl: /multi-language-al-folio # the subpath of your site, e.g. /blog/
@@ -127,9 +127,9 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: george-gca/multi-language-al-folio      # <your-github-user-name>/<your-github-repo-name>
+  repo: dichio/dichio.github.io      # <your-github-user-name>/<your-github-repo-name>
   repo_id: R_kgDOI6hBvA
-  category: Announcements             # name of the category under which discussions will be created
+  category: Comments             # name of the category under which discussions will be created
   category_id: DIC_kwDOI6hBvM4CUML1
   mapping: title                 # identify discussions by post title
   strict: 1                      # use strict identification mode
@@ -275,12 +275,11 @@ scholar:
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
-  #sort_by: date
-  #order: descending
-  #type_order: [article, inbook, unpublished, book, misc, report, conference, incollections, inproceedings, proceedings]
-  #type_names: {unpublished: working papers, report: technical reports, techreport: technical reports, article: journal articles, 
-  #inproceedings: conference articles & others}
-    
+  sort_by: date
+  order: descending
+  type_order: [article, inbook, unpublished, book, misc, report, conference, incollections, inproceedings, proceedings]
+  type_names: {unpublished: working papers, report: technical reports, techreport: technical reports, article: journal articles, 
+  inproceedings: conference articles & others} 
   bibtex_filters: [latex, smallcaps, superscript]
 
   replace_strings: true
