@@ -275,12 +275,6 @@ scholar:
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
-  sort_by: date
-  order: descending
-  type_order: [article, inbook, unpublished, book, misc, report, conference, incollections, inproceedings, proceedings]
-  type_names: {unpublished: working papers, report: technical reports, techreport: technical reports, article: journal articles, 
-  inproceedings: conference articles & others} 
-  bibtex_filters: [latex, smallcaps, superscript]
 
   replace_strings: true
   join_strings: true
