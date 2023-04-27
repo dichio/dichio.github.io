@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dichio.github.io/multi-language-al-folio/sitemap.xml
+Sitemap: https://dichio.github.io/sitemap.xml
