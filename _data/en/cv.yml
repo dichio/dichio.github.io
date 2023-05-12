@@ -5,6 +5,8 @@
       value: Vito Dichio
     - name: Date of Birth
       value: 2nd October 1996
+    - name: Origin
+      value: European, Italian
     - name: Languages
       value: Italian, English, French
 
@@ -15,12 +17,18 @@
       institution: Sorbonne University, Paris Brain Institute, Paris, France
       year: Nov 2020 -
       description:
-        - Thesis / Analysis and Modeling of Temporal Brain Networks, supervised by F De Vico Fallani
+        - Advised by [F De Vico Fallani](https://sites.google.com/site/devicofallanifabrizio/)
     - title: M.Sc.
       institution: University of Trieste, Trieste, Italy
       year: Sept 2018 - Sept 2020
       description:
-        - Description 1.
+        - Thesis. 
+        - Description 2.
+    - title: B.Sc.
+      institution: University of Trieste, Trieste, Italy
+      year: Sept 2015 - Jul 2018
+      description:
+        - Thesis. 
         - Description 2.
 
 - title: Experience
