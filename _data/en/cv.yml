@@ -14,23 +14,23 @@
   type: time_table
   contents:
     - title: Ph.D. in Biological Physics
-      institution: <a href="https://www.sorbonne-universite.fr/en">Sorbonne University</a>, <a href="https://institutducerveau-icm.org/en/">Paris Brain Institute</a>, Trieste, Italy, Paris, France
+      institution: , Trieste, Italy, Paris, France
       year: 2020-
       description:
         - "Topics: MaxEnt models of brain networks, <em>C. elegans</em> brain development"
         - Advised by <a href="https://sites.google.com/site/devicofallanifabrizio/">Fabrizio De Vico Fallani</a> 
     - title: M.Sc. in Theoretical Physics
-      institution: <a href="https://www.units.it/en">University of Trieste</a>, Trieste, Italy
+      institution: , Trieste, Italy
       year: 2018-20
       description:
         - "Grade: 110/110 cum laude (GPA: 29.33/30)"
         - title: Internship and thesis:
           contents: 
-            - "Hosted by <a href="https://www.kth.se/en">KTH</a> and <a href="https://www.nordita.org/">NORDITA</a>, Stockholm, Sweden (Feb-Aug 2020)"
+            - "Hosted by , Stockholm, Sweden (Feb-Aug 2020)"
             - "Topics: statistical genetics, direct coupling analysis"
             - Co-advised by <a href="https://www.csc.kth.se/forskning/cb/cbp/homepages/eaurell/kth_homepage.html">Erik Aurell</a> and Hong-Li Zeng
     - title: B.Sc. in Physics
-      institution: <a href="https://www.units.it/en">University of Trieste</a>, Trieste, Italy
+      institution: , Trieste, Italy
       year: 2015-18
       description:
         - "Grade: 110/110 cum laude (GPA: 29.43/30)"
