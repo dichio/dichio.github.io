@@ -13,19 +13,19 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D.
+    - title: Ph.D. in Biological Physics
       institution: Sorbonne University, Paris Brain Institute, Paris, France
       year: Nov 2020 -
       description:
-        - 
-        - Advised by <a href="https://sites.google.com/site/devicofallanifabrizio/">F De Vico Fallani</a> 
-    - title: M.Sc.
+        - Topics\: blablabla
+        - Advised by <a href="https://sites.google.com/site/devicofallanifabrizio/">Fabrizio De Vico Fallani</a> 
+    - title: M.Sc. in Theoretical Physics
       institution: University of Trieste, Trieste, Italy
       year: Sept 2018 - Sept 2020
       description:
         - Thesis. 
         - Description 2.
-    - title: B.Sc.
+    - title: B.Sc. in Physics
       institution: University of Trieste, Trieste, Italy
       year: Sept 2015 - Jul 2018
       description:
