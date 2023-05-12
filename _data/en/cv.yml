@@ -15,19 +15,22 @@
   contents:
     - title: Ph.D. in Biological Physics
       institution: Sorbonne University, Paris Brain Institute, Paris, France
-      year: Nov 2020 -
+      year: 2020-
       description:
-        - "Topics: statistical models of brain networks, <em>C. elegans</em> brain development"
+        - "Topics: MaxEnt models of brain networks, <em>C. elegans</em> brain development"
         - Advised by <a href="https://sites.google.com/site/devicofallanifabrizio/">Fabrizio De Vico Fallani</a> 
     - title: M.Sc. in Theoretical Physics
       institution: University of Trieste, Trieste, Italy
-      year: Sept 2018 - Sept 2020
+      year: 2018-20
       description:
-        - Thesis. 
-        - Description 2.
+        - "Grade: 110/110 cum laude (GPA: 29.33/30)"
+        - title: Thesis
+          contents:
+            - "Topics: statistical genetics, direct coupling analysis"
+            - Co-advised by <a href="https://www.csc.kth.se/forskning/cb/cbp/homepages/eaurell/kth_homepage.html">Erik Aurell</a> and Hong-Li Zeng
     - title: B.Sc. in Physics
       institution: University of Trieste, Trieste, Italy
-      year: Sept 2015 - Jul 2018
+      year: 2015-18
       description:
         - Thesis. 
         - Description 2.
