@@ -14,7 +14,7 @@
   type: time_table
   contents:
     - title: Ph.D. in Biological Physics
-      institution: , Trieste, Italy, Paris, France
+      institution:  Paris, France
       year: 2020-
       description:
         - "Topics: MaxEnt models of brain networks, <em>C. elegans</em> brain development"
