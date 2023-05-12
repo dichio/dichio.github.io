@@ -14,7 +14,7 @@
   type: time_table
   contents:
     - title: Ph.D. in Biological Physics
-      institution:  Paris, France
+      institution: <a href="https://www.sorbonne-universite.fr/en">Sorbonne University</a>, <a href="https://institutducerveau-icm.org/en/">Paris Brain Institute</a>, Paris, France
       year: 2020-
       description:
         - "Topics: MaxEnt models of brain networks, <em>C. elegans</em> brain development"
