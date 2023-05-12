@@ -12,13 +12,13 @@
   type: time_table
   contents:
     - title: Ph.D.
-      institution: Sorbonne Université, Paris Brain Institute, Paris, France
+      institution: Sorbonne University, Paris Brain Institute, Paris, France
       year: Nov 2020 -
       description:
-        - Analysis and Modeling of Temporal Brain Networks, supervised by F De Vico Fallani
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Thesis: Analysis and Modeling of Temporal Brain Networks, supervised by F De Vico Fallani
+    - title: M.Sc.
+      institution: University of Trieste, Trieste, Italy
+      year: Sept 2018 - Sept 2020
       description:
         - Description 1.
         - Description 2.
