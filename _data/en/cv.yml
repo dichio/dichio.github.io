@@ -25,8 +25,8 @@
       description:
         - "Grade: 110/110 cum laude (GPA: 29.33/30)"
         - title: Internship and thesis
-          contents:
-            - "Hosted by NORDITA, Stockholm, Sweden (Feb-Aug 2020)"
+          contents: 
+            - "Hosted by <a href="https://www.nordita.org/">NORDITA</a> , Stockholm, Sweden (Feb-Aug 2020)"
             - "Topics: statistical genetics, direct coupling analysis"
             - Co-advised by <a href="https://www.csc.kth.se/forskning/cb/cbp/homepages/eaurell/kth_homepage.html">Erik Aurell</a> and Hong-Li Zeng
     - title: B.Sc. in Physics
